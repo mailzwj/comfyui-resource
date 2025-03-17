@@ -29,7 +29,6 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 * [Anything XL](https://www.liblib.art/modelinfo/1f6480170e93468dad8cf52696bd5538?from=search&versionUuid=d9fe17aeaf61438eb2abc96b5fdc60ba)
 * [DreamShaper XL v2.1 Turbo 闪电](https://www.liblib.art/modelinfo/1f74485deaf842d094054d5c75348879?from=search&versionUuid=92802afed001405a8aa23d1397fe70c2)
 * [动漫LyrielV1.6](https://www.liblib.art/modelinfo/0fc4843480e4e4b06d87faea6ffa851e?from=search&versionUuid=f8d42c5a771bae5b6ccd5d1ccb60ee22)
-* 
 
 ## LoRA
 

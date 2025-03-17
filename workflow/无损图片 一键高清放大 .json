@@ -1,0 +1,397 @@
+{
+  "last_node_id": 31,
+  "last_link_id": 35,
+  "nodes": [
+    {
+      "id": 15,
+      "type": "Note",
+      "pos": {
+        "0": -230.22146606445312,
+        "1": -733.4649047851562
+      },
+      "size": {
+        "0": 233.2369384765625,
+        "1": 125.6737289428711
+      },
+      "flags": {},
+      "order": 0,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "噪波量相当于增加噪点\n\n颜色修复类型相当于加了滤镜，"
+      ],
+      "_widget_cache_map": {},
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 13,
+      "type": "PreviewImage",
+      "pos": {
+        "0": 44.62062454223633,
+        "1": -973.4650268554688
+      },
+      "size": {
+        "0": 337.3168640136719,
+        "1": 421.1333923339844
+      },
+      "flags": {},
+      "order": 4,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 11,
+          "label": "图像"
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "Node name for S&R": "PreviewImage"
+      },
+      "widgets_values": [],
+      "_widget_cache_map": {}
+    },
+    {
+      "id": 11,
+      "type": "Note",
+      "pos": {
+        "0": -232,
+        "1": -929
+      },
+      "size": {
+        "0": 233.2369384765625,
+        "1": 125.6737289428711
+      },
+      "flags": {},
+      "order": 1,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [],
+      "properties": {},
+      "widgets_values": [
+        "CFG值越大越锐化，越不灰（6-8）"
+      ],
+      "_widget_cache_map": {},
+      "color": "#432",
+      "bgcolor": "#653"
+    },
+    {
+      "id": 14,
+      "type": "Image Comparer (rgthree)",
+      "pos": {
+        "0": 402,
+        "1": -976
+      },
+      "size": {
+        "0": 556.2570190429688,
+        "1": 863.1766357421875
+      },
+      "flags": {},
+      "order": 5,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image_a",
+          "type": "IMAGE",
+          "link": 12,
+          "label": "图像_A",
+          "dir": 3
+        },
+        {
+          "name": "image_b",
+          "type": "IMAGE",
+          "link": 13,
+          "label": "图像_B",
+          "dir": 3
+        }
+      ],
+      "outputs": [],
+      "properties": {
+        "comparer_mode": "Slide"
+      },
+      "widgets_values": [
+        [
+          {
+            "name": "A",
+            "selected": true,
+            "url": "https://liblibai-tmp-image.liblib.cloud/sd-images/e2f8645ba0d85e258acf81d95cb46a8778fc6a4949f1fa3f26a0468b2931b0c2.png?filename=sd-images/e2f8645ba0d85e258acf81d95cb46a8778fc6a4949f1fa3f26a0468b2931b0c2.png&type=output&rand=0.4867713691896747"
+          },
+          {
+            "name": "B",
+            "selected": true,
+            "url": "https://liblibai-tmp-image.liblib.cloud/sd-images/4f68d62d9d6f6ea09360f4ffe2432f1acaa8ef6ff5466aa2f3eac7ffed281dc4.png?filename=sd-images/4f68d62d9d6f6ea09360f4ffe2432f1acaa8ef6ff5466aa2f3eac7ffed281dc4.png&type=output&rand=0.7847181491060375"
+          }
+        ]
+      ],
+      "_widget_cache_map": {}
+    },
+    {
+      "id": 10,
+      "type": "SUPIR_Upscale",
+      "pos": {
+        "0": -731,
+        "1": -969
+      },
+      "size": {
+        "0": 400,
+        "1": 818
+      },
+      "flags": {},
+      "order": 3,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 10,
+          "label": "图像"
+        },
+        {
+          "name": "captions",
+          "type": "STRING",
+          "link": null,
+          "widget": {
+            "name": "captions"
+          },
+          "shape": 7,
+          "label": "captions"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "upscaled_image",
+          "type": "IMAGE",
+          "links": [
+            11,
+            12
+          ],
+          "slot_index": 0,
+          "label": "图像"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "SUPIR_Upscale"
+      },
+      "widgets_values": [
+        "SUPIR-v0F_fp16.safetensors",
+        "基础算法_XL",
+        322862622226531,
+        "randomize",
+        "lanczos",
+        2,
+        45,
+        -1,
+        4,
+        "high quality, detailed",
+        "bad quality, blurry, messy",
+        5,
+        1.003,
+        1,
+        4,
+        0,
+        "Wavelet",
+        true,
+        true,
+        512,
+        64,
+        "",
+        "auto",
+        "auto",
+        1,
+        false,
+        1024,
+        512,
+        false,
+        false,
+        "RestoreEDMSampler"
+      ],
+      "_widget_cache_map": {
+        "基础算法_XL": {
+          "name": "基础算法_XL",
+          "baseType": 3,
+          "value": "fa5e552314b59c4e4e0117e6f0b2d3b5"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "type": "LoadImage",
+      "pos": {
+        "0": -1141,
+        "1": -960
+      },
+      "size": {
+        "0": 375.77093505859375,
+        "1": 558.8502807617188
+      },
+      "flags": {},
+      "order": 2,
+      "mode": 0,
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            10,
+            13
+          ],
+          "slot_index": 0,
+          "label": "图像"
+        },
+        {
+          "name": "MASK",
+          "type": "MASK",
+          "links": null,
+          "label": "遮罩"
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "LoadImage"
+      },
+      "widgets_values": [
+        "9390dccf-a097-4061-aaba-ff016afc9c78.jpg",
+        "image"
+      ],
+      "_widget_cache_map": {
+        "博物馆-游园惊梦 - 雁 十四 (1).jpg": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/181c3387feddf515772c7e5ee5c67fd3f69342a47f1776ca22cff8b172d6deef.jpg",
+          "name": "博物馆-游园惊梦 - 雁 十四 (1).jpg",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/181c3387feddf515772c7e5ee5c67fd3f69342a47f1776ca22cff8b172d6deef.jpg",
+          "width": 736,
+          "height": 1308
+        },
+        "f1124ba0-744a-4b58-969e-7206ad2d70e9.jpg": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/4e5169b8d27ef8145488aaec7cffb81d5ca829db83861d678b8352f267cd5fb5.jpg",
+          "name": "f1124ba0-744a-4b58-969e-7206ad2d70e9.jpg",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/4e5169b8d27ef8145488aaec7cffb81d5ca829db83861d678b8352f267cd5fb5.jpg",
+          "width": 736,
+          "height": 736
+        },
+        "微信图片_20250221221236.jpg": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/6c4b10c992ce16221c191620015d90529eb02740540659679c2e712e9fb9e948.jpg",
+          "name": "微信图片_20250221221236.jpg",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/6c4b10c992ce16221c191620015d90529eb02740540659679c2e712e9fb9e948.jpg",
+          "width": 1079,
+          "height": 1438
+        },
+        "2.png": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/ccc125e9933c46451afc87abd32976cd85d39e1d95bec162e181cefd963e4bde.png",
+          "name": "2.png",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/ccc125e9933c46451afc87abd32976cd85d39e1d95bec162e181cefd963e4bde.png",
+          "width": 2480,
+          "height": 3508
+        },
+        "微信图片_20250301153524.jpg": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/0f52059b885638e4d867b04ae4ddb809769b956c2305c0014e698d3042007bcb.jpg",
+          "name": "微信图片_20250301153524.jpg",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/0f52059b885638e4d867b04ae4ddb809769b956c2305c0014e698d3042007bcb.jpg",
+          "width": 1440,
+          "height": 2038
+        },
+        "ig + tt_ soullesscreaturesoflight ˚ ༘♡ ⋆｡˚.jpg": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/29e5f08b3de494c8a7914d8ac6d331c08766fe57958ac4a681cb7289d5d7461b.jpg",
+          "name": "ig + tt_ soullesscreaturesoflight ˚ ༘♡ ⋆｡˚.jpg",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/29e5f08b3de494c8a7914d8ac6d331c08766fe57958ac4a681cb7289d5d7461b.jpg",
+          "width": 736,
+          "height": 1103
+        },
+        "9390dccf-a097-4061-aaba-ff016afc9c78.jpg": {
+          "value": "img/027a05310bef4cb998dd58f29d06bbc4/ade4e5e8a1b90cfba380de50d0d6d855aef5dab9646cb6f543934208a50c0de6.jpg",
+          "name": "9390dccf-a097-4061-aaba-ff016afc9c78.jpg",
+          "url": "https://liblibai-tmp-image.liblib.cloud/img/027a05310bef4cb998dd58f29d06bbc4/ade4e5e8a1b90cfba380de50d0d6d855aef5dab9646cb6f543934208a50c0de6.jpg",
+          "width": 564,
+          "height": 752
+        }
+      }
+    }
+  ],
+  "links": [
+    [
+      10,
+      12,
+      0,
+      10,
+      0,
+      "IMAGE"
+    ],
+    [
+      11,
+      10,
+      0,
+      13,
+      0,
+      "IMAGE"
+    ],
+    [
+      12,
+      10,
+      0,
+      14,
+      0,
+      "IMAGE"
+    ],
+    [
+      13,
+      12,
+      0,
+      14,
+      1,
+      "IMAGE"
+    ]
+  ],
+  "groups": [
+    {
+      "title": "加载原图",
+      "bounding": [
+        -1100,
+        -361,
+        264,
+        88
+      ],
+      "color": "#3f789e",
+      "font_size": 64,
+      "flags": {}
+    },
+    {
+      "title": "第一次放大",
+      "bounding": [
+        -1170,
+        -1135,
+        2182,
+        1053
+      ],
+      "color": "#3f789e",
+      "font_size": 64,
+      "flags": {}
+    }
+  ],
+  "config": {},
+  "extra": {
+    "ds": {
+      "scale": 0.598950000000004,
+      "offset": [
+        1922.3887274265173,
+        1347.9593677111427
+      ]
+    },
+    "0246.VERSION": [
+      0,
+      0,
+      4
+    ]
+  },
+  "version": 0.4,
+  "seed_widgets": {
+    "10": 2
+  },
+  "widget_idx_map": {
+    "10": {
+      "seed": 2
+    }
+  }
+}

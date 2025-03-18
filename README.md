@@ -6,6 +6,26 @@
 
 ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 
+## Plugin
+* ⭐⭐⭐⭐⭐ ComfyUI-Manager: [https://github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+* ⭐⭐⭐⭐⭐ ComfyUI-Custom-Scripts: [https://github.com/pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
+* ⭐⭐⭐⭐⭐ ComfyUI-ControlNet-Aux: [https://github.com/Fannovel16/comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
+* ⭐⭐⭐⭐⭐ rgthree-comfy: [https://github.com/rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
+* ⭐⭐⭐⭐ ComfyUI-IPAdapter-Plus: [https://github.com/cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
+* ⭐⭐⭐⭐ ComfyUI-Impact-Pack: [https://github.com/ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
+* ⭐⭐⭐⭐ ComfyUI-Impact-Subpack: [https://github.com/ltdrdata/ComfyUI-Impact-Subpack](https://github.com/ltdrdata/ComfyUI-Impact-Subpack)
+* ⭐⭐⭐⭐ ComfyUI-BrushNet: [https://github.com/nullquant/ComfyUI-BrushNet](https://github.com/nullquant/ComfyUI-BrushNet)
+* ⭐⭐⭐ ComfyUI-3D-Pack: [https://github.com/MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
+* ⭐⭐⭐⭐ ComfyUI-SUPIR: [https://github.com/kijai/ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR)
+* ⭐⭐⭐⭐ ComfyUI_InvSR（图片放大）: [https://github.com/yuvraj108c/ComfyUI_InvSR](https://github.com/yuvraj108c/ComfyUI_InvSR)
+* ⭐⭐⭐⭐ ComfyUI-segment-anything-2（快速蒙版）: [https://github.com/kijai/ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2)
+* ⭐⭐⭐⭐ ComfyUI-KJNodes: [https://github.com/kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)
+* ⭐⭐⭐ ComfyUI-VideoHelperSuite: [https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
+* ⭐⭐⭐ ComfyUI-HunyuanVideoWrapper: [https://github.com/kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)
+* ⭐⭐⭐ ComfyUI_Sonic: [https://github.com/smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic)
+* ⭐⭐⭐⭐ ComfyUI_BaiduTranslate: [https://github.com/chflame163/ComfyUI_BaiduTranslate](https://github.com/chflame163/ComfyUI_BaiduTranslate)
+* ⭐⭐⭐⭐⭐ AIGODLIKE-ComfyUI-Translation: [https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)
+
 ## Workflow
 * [高清放大+重新上色](https://github.com/mailzwj/comfyui-resource/blob/main/workflow/%E9%AB%98%E6%B8%85%E6%94%BE%E5%A4%A7%2B%E9%87%8D%E6%96%B0%E4%B8%8A%E8%89%B2.json) ⭐⭐⭐⭐⭐
 * [无损图片 一键高清放大](https://github.com/mailzwj/comfyui-resource/blob/main/workflow/%E6%97%A0%E6%8D%9F%E5%9B%BE%E7%89%87%20%E4%B8%80%E9%94%AE%E9%AB%98%E6%B8%85%E6%94%BE%E5%A4%A7%20.json) ⭐⭐⭐⭐⭐
@@ -31,25 +51,11 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 * [动漫LyrielV1.6](https://www.liblib.art/modelinfo/0fc4843480e4e4b06d87faea6ffa851e?from=search&versionUuid=f8d42c5a771bae5b6ccd5d1ccb60ee22)
 
 ## LoRA
+* [anime-lineart-manga-like-style](https://civitai.com/models/16014/anime-lineart-manga-like-style)
 
-## Plugin
-* ⭐⭐⭐⭐⭐ ComfyUI-Manager: [https://github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)
-* ⭐⭐⭐⭐⭐ ComfyUI-Custom-Scripts: [https://github.com/pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
-* ⭐⭐⭐⭐⭐ ComfyUI-ControlNet-Aux: [https://github.com/Fannovel16/comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
-* ⭐⭐⭐⭐⭐ rgthree-comfy: [https://github.com/rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
-* ⭐⭐⭐⭐ ComfyUI-IPAdapter-Plus: [https://github.com/cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
-* ⭐⭐⭐⭐ ComfyUI-Impact-Pack: [https://github.com/ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
-* ⭐⭐⭐⭐ ComfyUI-Impact-Subpack: [https://github.com/ltdrdata/ComfyUI-Impact-Subpack](https://github.com/ltdrdata/ComfyUI-Impact-Subpack)
-* ⭐⭐⭐⭐ ComfyUI-BrushNet: [https://github.com/nullquant/ComfyUI-BrushNet](https://github.com/nullquant/ComfyUI-BrushNet)
-* ⭐⭐⭐ ComfyUI-3D-Pack: [https://github.com/MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
-* ⭐⭐⭐⭐ ComfyUI-SUPIR: [https://github.com/kijai/ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR)
-* ⭐⭐⭐⭐ ComfyUI_InvSR（图片放大）: [https://github.com/yuvraj108c/ComfyUI_InvSR](https://github.com/yuvraj108c/ComfyUI_InvSR)
-* ⭐⭐⭐⭐ ComfyUI-segment-anything-2（快速蒙版）: [https://github.com/kijai/ComfyUI-segment-anything-2](https://github.com/kijai/ComfyUI-segment-anything-2)
-* ⭐⭐⭐⭐ ComfyUI-KJNodes: [https://github.com/kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)
-* ⭐⭐⭐ ComfyUI-VideoHelperSuite: [https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite)
-* ⭐⭐⭐ ComfyUI-HunyuanVideoWrapper: [https://github.com/kijai/ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)
-* ⭐⭐⭐ ComfyUI_Sonic: [https://github.com/smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic)
-* ⭐⭐⭐⭐ ComfyUI_BaiduTranslate: [https://github.com/chflame163/ComfyUI_BaiduTranslate](https://github.com/chflame163/ComfyUI_BaiduTranslate)
-* ⭐⭐⭐⭐⭐ AIGODLIKE-ComfyUI-Translation: [https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)
+## Embedding
+> 负面提示词输入框，输入“e”下拉选择
+* [easynegative](https://civitai.com/models/7808/easynegative)
+* [badhandv4](https://civitai.com/models/16993/badhandv4-animeillustdiffusion)
 
 ## Article

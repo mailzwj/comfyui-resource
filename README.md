@@ -15,6 +15,7 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 * ⭐⭐⭐⭐ ComfyUI-Impact-Pack: [https://github.com/ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 * ⭐⭐⭐⭐ ComfyUI-Impact-Subpack: [https://github.com/ltdrdata/ComfyUI-Impact-Subpack](https://github.com/ltdrdata/ComfyUI-Impact-Subpack)
 * ⭐⭐⭐⭐ ComfyUI-BrushNet: [https://github.com/nullquant/ComfyUI-BrushNet](https://github.com/nullquant/ComfyUI-BrushNet)
+* ⭐⭐⭐⭐ ComfyUI-WD14-Tagger（提示词反推）: [https://github.com/pythongosssss/ComfyUI-WD14-Tagger](https://github.com/pythongosssss/ComfyUI-WD14-Tagger)
 * ⭐⭐⭐ ComfyUI-3D-Pack: [https://github.com/MrForExample/ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack)
 * ⭐⭐⭐⭐ ComfyUI-SUPIR: [https://github.com/kijai/ComfyUI-SUPIR](https://github.com/kijai/ComfyUI-SUPIR)
 * ⭐⭐⭐⭐ ComfyUI_InvSR（图片放大）: [https://github.com/yuvraj108c/ComfyUI_InvSR](https://github.com/yuvraj108c/ComfyUI_InvSR)

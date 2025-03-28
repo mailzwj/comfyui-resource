@@ -59,5 +59,6 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 > 负面提示词输入框，输入“e”下拉选择
 * [easynegative](https://civitai.com/models/7808/easynegative)
 * [badhandv4](https://civitai.com/models/16993/badhandv4-animeillustdiffusion)
+* [NG_DeepNegative_V1_75T](https://hf-mirror.com/lenML/DeepNegative/tree/main)
 
 ## Article

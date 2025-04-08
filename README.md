@@ -62,3 +62,6 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 * [NG_DeepNegative_V1_75T](https://hf-mirror.com/lenML/DeepNegative/tree/main)
 
 ## Article
+* [ComfyUI中级 - 全面掌握IPAdapter](https://zhuanlan.zhihu.com/p/2326715373)
+* [ComfyUI局部重绘神器Brushnet插件，必须掌握](https://blog.csdn.net/A2421417624/article/details/145728684)
+* [只需几步即可开始训练LoRA模型](https://zhuanlan.zhihu.com/p/16897253736)

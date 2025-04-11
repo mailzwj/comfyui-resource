@@ -11,6 +11,7 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 * ⭐⭐⭐⭐⭐ ComfyUI-Custom-Scripts: [https://github.com/pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)
 * ⭐⭐⭐⭐⭐ ComfyUI-ControlNet-Aux: [https://github.com/Fannovel16/comfyui_controlnet_aux](https://github.com/Fannovel16/comfyui_controlnet_aux)
 * ⭐⭐⭐⭐⭐ rgthree-comfy: [https://github.com/rgthree/rgthree-comfy](https://github.com/rgthree/rgthree-comfy)
+* ⭐⭐⭐⭐⭐ efficiency-nodes-comfyui: [https://github.com/jags111/efficiency-nodes-comfyui](https://github.com/jags111/efficiency-nodes-comfyui)
 * ⭐⭐⭐⭐ ComfyUI-IPAdapter-Plus: [https://github.com/cubiq/ComfyUI_IPAdapter_plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus)
 * ⭐⭐⭐⭐ ComfyUI-Impact-Pack: [https://github.com/ltdrdata/ComfyUI-Impact-Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack)
 * ⭐⭐⭐⭐ ComfyUI-Impact-Subpack: [https://github.com/ltdrdata/ComfyUI-Impact-Subpack](https://github.com/ltdrdata/ComfyUI-Impact-Subpack)

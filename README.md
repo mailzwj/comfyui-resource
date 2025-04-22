@@ -5,6 +5,7 @@
 资源来源于网络，请合理合规合法使用。
 
 ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+官网：[https://www.comfy.org/](https://www.comfy.org/)
 
 ## Plugin
 * ⭐⭐⭐⭐⭐ ComfyUI-Manager: [https://github.com/ltdrdata/ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager)

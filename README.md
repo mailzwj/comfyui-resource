@@ -4,7 +4,7 @@
 收集不易，喜欢的朋友可以点个Star，给点鼓励。\
 资源来源于网络，请合理合规合法使用。
 
-ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)\
 官网：[https://www.comfy.org/](https://www.comfy.org/)
 
 ## Plugin

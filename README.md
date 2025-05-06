@@ -28,6 +28,7 @@ ComfyUI: [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyano
 * ⭐⭐⭐ ComfyUI_Sonic: [https://github.com/smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic)
 * ⭐⭐⭐⭐ ComfyUI_BaiduTranslate: [https://github.com/chflame163/ComfyUI_BaiduTranslate](https://github.com/chflame163/ComfyUI_BaiduTranslate)
 * ⭐⭐⭐⭐⭐ AIGODLIKE-ComfyUI-Translation: [https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)
+* ⭐⭐⭐⭐⭐ ComfyUI_StepAudioTTS: [https://github.com/billwuhao/ComfyUI_StepAudioTTS](https://github.com/billwuhao/ComfyUI_StepAudioTTS)
 
 ## Workflow
 * [高清放大+重新上色](https://github.com/mailzwj/comfyui-resource/blob/main/workflow/%E9%AB%98%E6%B8%85%E6%94%BE%E5%A4%A7%2B%E9%87%8D%E6%96%B0%E4%B8%8A%E8%89%B2.json) ⭐⭐⭐⭐⭐
